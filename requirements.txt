@@ -1,4 +1,7 @@
 pandas
 numpy
-seaborn 
+seaborn
+matplotlib
+requests
+os
 #-e .
